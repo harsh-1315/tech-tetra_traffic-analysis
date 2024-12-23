@@ -1,9 +1,13 @@
 # Real-time Traffic Analysis and Visualization
-This is real-time traffic visualization project done for the city of Ann Arbor, Michigan
+This is real-time traffic visualization project 
+group members:
+    1.Drashti Akbari KU2407U010
+    2.Muskan Padhiar KU2407U139
+    3.Harsh Dodia    KU2407U786
+    4.Shaurya Singh  KU2407U200
+    5.Aryan Minish   KU2407U024
 
 ## Data Description ##
-Data used is found [here](https://data.transportation.gov/Automobiles/Safety-Pilot-Model-Deployment-Data/a7qq-9vfe). Data despcription is as follows (https://data.transportation.gov/Automobiles/Safety-Pilot-Model-Deployment-Data/a7qq-9vfe/data?pane=manage)
-
 | Field Name     | Type    | Units        | Description                                                                                                                            |
 |----------------|---------|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | Device         | Integer | none         | A unique numeric ID assigned to each DAS. This ID also doubles as a vehicle’s ID                                                       |
